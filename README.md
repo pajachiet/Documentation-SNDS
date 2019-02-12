@@ -8,4 +8,4 @@ Documentation SNDS mise à jour par l'INDS (Institut National des Données de Sa
 # Utiliser GitHub
 Pour récupérer le dossier ou les documents, cliquer sur le bouton de téléchargement
 
-![](img/downloadfile)
+![](https://github.com/indsante/Documentation-SNDS/blob/master/img/downloadfile.png)
