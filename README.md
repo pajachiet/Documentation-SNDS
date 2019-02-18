@@ -1,5 +1,5 @@
 # Documentation-SNDS
-Documentation SNDS mise à jour par l'INDS (Institut National des Données de Santé) produit soit par la Cnam, soit par l'INDS. 
+Documentation SNDS mise à jour par l'INDS (Institut National des Données de Santé) produit soit par la Cnam, soit par l'INDS, soit par la DREES. 
 
 # Liste des documents
 - Description des Données du SNDS [DRESS - INDS CC BY SA]
